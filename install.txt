@@ -1,3 +1,11 @@
 npm i babel-plugin-react-compiler@latest
 
 npm i --save-dev tw-animate-css
+
+
+Posthog Next steps:
+• Call posthog.identify() when a user signs into your app
+• Call posthog.capture() to capture custom events in your app
+• Upload your Project API key to your hosting provider
+
+Learn more about PostHog + Next.js: https://posthog.com/docs/libraries/next-js
